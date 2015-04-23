@@ -31,8 +31,8 @@ import android.view.View;
 import android.widget.AutoCompleteTextView;
 import android.content.res.ColorStateList;
 
-import com.nineoldandroids.animation.ArgbEvaluator;
-import com.nineoldandroids.animation.ObjectAnimator;
+import android.animation.ArgbEvaluator;
+import android.animation.ObjectAnimator;
 import com.rengwuxian.materialedittext.validation.METValidator;
 
 import java.util.ArrayList;
