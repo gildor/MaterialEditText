@@ -4,6 +4,7 @@ MaterialEditText
 
 > ## NOTE: 2.0 is NOT BACKWARDS COMPATIBLE! See more on [wiki](https://github.com/rengwuxian/MaterialEditText/wiki) or [中文看这里](http://www.rengwuxian.com/post/materialedittext)
 
+> ## This version of MaterialEditText don't depend on NineOldAndroid so support only Android API level >= 11
 
 ![MaterialEditText](./images/material_edittext.png)
 
@@ -90,10 +91,6 @@ Maven:
 ## Usage
 
 See on [Wiki Page](https://github.com/rengwuxian/MaterialEditText/wiki) or [中文看这里](http://www.rengwuxian.com/post/materialedittext)
-
-## Thanks to
-
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids/)
 
 ## License
 
