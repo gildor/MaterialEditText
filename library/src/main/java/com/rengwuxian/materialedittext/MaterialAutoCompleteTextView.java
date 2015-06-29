@@ -32,8 +32,8 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.content.res.ColorStateList;
 
-import com.nineoldandroids.animation.ArgbEvaluator;
-import com.nineoldandroids.animation.ObjectAnimator;
+import android.animation.ArgbEvaluator;
+import android.animation.ObjectAnimator;
 import com.rengwuxian.materialedittext.validation.METLengthChecker;
 import com.rengwuxian.materialedittext.validation.METValidator;
 
